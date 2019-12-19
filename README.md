@@ -1,8 +1,4 @@
-[Swift 5 ] SwiftUI - Make TableView
-
 ![Image of Yaktocat](https://1.bp.blogspot.com/-AcCI-gA8ReU/XfvVm37Y5aI/AAAAAAAAA-A/DiKds3uEqUA8c_5wXLGAj-7F9CZfcu4xgCLcBGAsYHQ/s640/all_result.png)
-
-Please comment on any questions! 
 
 * Reference links:
 
